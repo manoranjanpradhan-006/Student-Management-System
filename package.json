@@ -1,0 +1,23 @@
+{
+  "name": "student-management-system",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/manoranjanpradhan-006/Student-Management-System#readme",
+  "bugs": {
+    "url": "https://github.com/manoranjanpradhan-006/Student-Management-System/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manoranjanpradhan-006/Student-Management-System.git"
+  },
+  "license": "ISC",
+  "author": "Manoranjan Pradhan",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
